@@ -80,10 +80,10 @@ const connToken = "your-connection-token-here";
 
 ## Screenshots
 
-#Submitting / Updating Data
+# Submitting / Updating Data
 ![image](https://github.com/user-attachments/assets/c3e3257d-b0db-459f-ba60-c9f92cb66d78)
 
-#Verification in the Console
+# Verification in the Console
 ![image](https://github.com/user-attachments/assets/1faa18eb-962b-4941-8bc2-858201b57048)
 
 
@@ -93,6 +93,3 @@ const connToken = "your-connection-token-here";
 
 This project is released under the **MIT License** — feel free to use and adapt it as needed.
 
----
-
-Would you like me to write a version of this for GitHub, with proper Markdown formatting and badge placeholders as well?
